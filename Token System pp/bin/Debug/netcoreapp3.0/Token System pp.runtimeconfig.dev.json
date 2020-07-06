@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pial\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pial\\.nuget\\packages"
+    ]
+  }
+}

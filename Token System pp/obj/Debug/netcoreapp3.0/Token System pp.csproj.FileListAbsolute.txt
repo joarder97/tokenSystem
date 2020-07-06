@@ -1,0 +1,13 @@
+D:\Token System pp\Token System pp\obj\Debug\netcoreapp3.0\Token System pp.csprojAssemblyReference.cache
+D:\Token System pp\Token System pp\obj\Debug\netcoreapp3.0\Token System pp.AssemblyInfoInputs.cache
+D:\Token System pp\Token System pp\obj\Debug\netcoreapp3.0\Token System pp.AssemblyInfo.cs
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\Token System pp.exe
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\Token System pp.deps.json
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\Token System pp.runtimeconfig.json
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\Token System pp.runtimeconfig.dev.json
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\Token System pp.dll
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\Token System pp.pdb
+D:\Token System pp\Token System pp\bin\Debug\netcoreapp3.0\System.Windows.Forms.dll
+D:\Token System pp\Token System pp\obj\Debug\netcoreapp3.0\Token System pp.csproj.CopyComplete
+D:\Token System pp\Token System pp\obj\Debug\netcoreapp3.0\Token System pp.dll
+D:\Token System pp\Token System pp\obj\Debug\netcoreapp3.0\Token System pp.pdb
